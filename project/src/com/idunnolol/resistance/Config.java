@@ -14,10 +14,10 @@ public class Config {
 
 	public enum Option {
 		MERLIN_ASSASSIN(R.string.option_merlin_assassin, R.string.option_merlin_assassin_description, R.drawable.ic_admiral),
-		PERCIVAL(R.string.option_percival, R.string.option_percival_description, R.drawable.role_percival),
-		MORDRED(R.string.option_mordred, R.string.option_mordred_description, R.drawable.role_mordred),
-		OBERON(R.string.option_oberon, R.string.option_oberon_description, R.drawable.role_oberon),
-		MORGANA(R.string.option_morgana, R.string.option_morgana_description, R.drawable.role_morgana),
+		PERCIVAL(R.string.option_percival, R.string.option_percival_description, R.drawable.ic_schutzengel),
+		MORDRED(R.string.option_mordred, R.string.option_mordred_description, R.drawable.is_spionin),
+		OBERON(R.string.option_oberon, R.string.option_oberon_description, R.drawable.ic_schlaeferin_oberon),
+		MORGANA(R.string.option_morgana, R.string.option_morgana_description, R.drawable.ic_saboteur_morgana),
 		LANCELOT_VARIANT_3(R.string.option_lancelot_v3, R.string.option_lancelot_v3_description, R.drawable.role_lancelot_evil);
 
 		private int mTitleResId;
