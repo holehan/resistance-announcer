@@ -13,7 +13,7 @@ import android.preference.PreferenceManager;
 public class Config {
 
 	public enum Option {
-		MERLIN_ASSASSIN(R.string.option_merlin_assassin, R.string.option_merlin_assassin_description, R.drawable.role_merlin),
+		MERLIN_ASSASSIN(R.string.option_merlin_assassin, R.string.option_merlin_assassin_description, R.drawable.ic_admiral),
 		PERCIVAL(R.string.option_percival, R.string.option_percival_description, R.drawable.role_percival),
 		MORDRED(R.string.option_mordred, R.string.option_mordred_description, R.drawable.role_mordred),
 		OBERON(R.string.option_oberon, R.string.option_oberon_description, R.drawable.role_oberon),
