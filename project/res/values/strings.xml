@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Resistance Script Helper</string>
+    <string name="app_name">Resistance-Ansager</string>
 
     <!-- Action bar -->
-    <string name="menu_speak">Speak</string>
-    <string name="menu_shut_up">Shut Up</string>
+    <string name="menu_speak">Ansagen</string>
+    <string name="menu_shut_up">Stopp</string>
 
     <!-- ListView UI -->
-    <string name="option_merlin_assassin">Merlin/Assassin</string>
-    <string name="option_merlin_assassin_description">Merlin knows evil, must remain hidden</string>
-    <string name="option_percival">Percival</string>
-    <string name="option_percival_description">Knows Merlin</string>
-    <string name="option_mordred">Mordred</string>
-    <string name="option_mordred_description">Unknown to Merlin</string>
-    <string name="option_oberon">Oberon</string>
-    <string name="option_oberon_description">Unknown to Evil</string>
-    <string name="option_morgana">Morgana</string>
-    <string name="option_morgana_description">Appears as Merlin</string>
-    <string name="option_lancelot_v3">Lancelot (Variant #3)</string>
-    <string name="option_lancelot_v3_description">Good and Evil Lancelots know each other</string>
+    <string name="option_merlin_assassin">Admiral/Assassinin</string>
+    <string name="option_merlin_assassin_description">Admiral kennt die Zylonen, muss versteckt bleiben</string>
+    <string name="option_percival">Schutzengel</string>
+    <string name="option_percival_description">Kennt Admiral</string>
+    <string name="option_mordred">Spionin</string>
+    <string name="option_mordred_description">Für den Admiral unbekannt</string>
+    <string name="option_oberon">Schläferin</string>
+    <string name="option_oberon_description">Für die Zylonen unbekannt</string>
+    <string name="option_morgana">Saboteur</string>
+    <string name="option_morgana_description">Erscheint als Admiral</string>
+    <string name="option_lancelot_v3">Lanzelot (Variante #3)</string>
+    <string name="option_lancelot_v3_description">Guter und böser Lanzelot kennen einander</string>
 
     <!-- Resistance scripts -->
-    <string name="script_close_eyes">Everyone close your eyes.</string>
-    <string name="script_spies_find_each_other">Spies open your eyes.  Spies look around and make sure that you know all the other Spies.</string>
-    <string name="script_spies_close_eyes">Spies close your eyes.</string>
-    <string name="script_open_eyes">Everyone open your eyes.</string>
+    <string name="script_close_eyes">Bitte schließt alle eure Augen.</string>
+    <string name="script_spies_find_each_other">Zylone, bitte öffnet eure Augen. Die Zylonen sehen sich um, und finden einander.</string>
+    <string name="script_spies_close_eyes">Zylone, bitte schließt eure Augen.</string>
+    <string name="script_open_eyes">Alle öffnen ihre Augen.</string>
 
     <!-- Avalon scripts -->
-    <string name="script_close_eyes_extend_fists">Everyone close your eyes and extend your hand into a fist in front of you.</string>
-    <string name="script_evil_find_each_other">Minions of Mordred, open your eyes and look around so that you know all agents of Evil.</string>
-    <string name="script_evil_find_each_other_except_oberon">Minions of Mordred (except Oberon), open your eyes and look around so that you know all agents of Evil.</string>
-    <string name="script_evil_close_eyes">Minions of Mordred, close your eyes.</string>
-    <string name="script_evil_be_known">Minions of Mordred, extend your thumb so that Merlin will know of you.</string>
-    <string name="script_evil_be_known_except_mordred">Minions of Mordred (except Mordred himself), extend your thumb so that Merlin will know of you.</string>
-    <string name="script_merlin_know_evil">Merlin, open your eyes and see the agents of Evil.</string>
-    <string name="script_evil_hide">Minions of Mordred, put your thumbs down and re-form your hand into a fist.</string>
-    <string name="script_merlin_close_eyes">Merlin, close your eyes.</string>
-    <string name="script_merlin_be_known">Merlin, extend your thumb so that Percival may know of you.</string>
-    <string name="script_merlin_morgana_be_known">Merlin and Morgana, extend your thumb so that Percival may know of you.</string>
-    <string name="script_percival_know_merlin">Percival, open your eyes so that you may know Merlin.</string>
-    <string name="script_percival_know_merlin_morgana">Percival, open your eyes so that you may know Merlin and Morgana.</string>
-    <string name="script_merlin_hide">Merlin, put your thumb down and form your hand into a fist.</string>
-    <string name="script_merlin_morgana_hide">Merlin and Morgana, put your thumbs down and form your hand into a fist.</string>
-    <string name="script_percival_close_eyes">Percival, close your eyes.</string>
-    <string name="script_lancelot_know_each_other">Lancelot, open your eyes to reveal your counterpart.</string>
-    <string name="script_lancelot_close_eyes">Lancelot, close your eyes.</string>
+    <string name="script_close_eyes_extend_fists">Bitte schließt alle eure Augen, und streckt eure Faust vor euch aus.</string>
+    <string name="script_evil_find_each_other">Zylone, öffnet eure Augen, seht euch um und findet einander, so daß ihr alle anderen Zylonen kennt.</string>
+    <string name="script_evil_find_each_other_except_oberon">Zylonen (alle außer der Schläferin), öffnet eure Augen, seht euch um, und findet einander, so daß ihr alle anderen Zylonen kennt.</string>
+    <string name="script_evil_close_eyes">Zylone, schließt eure Augen.</string>
+    <string name="script_evil_be_known">Zylone, streckt eure Daumen nach oben, damit der Admiral euch erkennen kann.</string>
+    <string name="script_evil_be_known_except_mordred">Zylonen (außer der Spionin), streckt eure Daumen nach oben, damit der Admiral euch erkennen kann.</string>
+    <string name="script_merlin_know_evil">Admiral, öffne deine Augen, und erkenne die Zylonen an ihren hochgestreckten Daumen.</string>
+    <string name="script_evil_hide">Zylone, nehmt die Daumen herunter und bildet wieder eine Faust.</string>
+    <string name="script_merlin_close_eyes">Admiral, schließe deine Augen.</string>
+    <string name="script_merlin_be_known">Admiral, strecke deinen Daumen nach oben, damit der Schutzengel dich erkennen kann.</string>
+    <string name="script_merlin_morgana_be_known">Admiral und Saboteur, streckt eure Daumen nach oben, damit der Schutzengel euch erkennen kann.</string>
+    <string name="script_percival_know_merlin">Schutzengel, öffne deine Augen und erkenne den Admiral an seinem hochgestreckten Daumen.</string>
+    <string name="script_percival_know_merlin_morgana">Schutzengel, öffne deine Augen und erkenne den Admiral und den Saboteur an ihren hochgestreckten Daumen.</string>
+    <string name="script_merlin_hide">Admiral, nimm den Daumen herunter und bilde wieder eine Faust.</string>
+    <string name="script_merlin_morgana_hide">Admiral und Saboteur, nehmt die Daumen herunter und bildet wieder eine Faust.</string>
+    <string name="script_percival_close_eyes">Schutzengel, schließe deine Augen.</string>
+    <string name="script_lancelot_know_each_other">Die beiden Lanzelots, öffnet eure Augen, um euren jeweiligen Gegen-Lanzelot zu erkennen.</string>
+    <string name="script_lancelot_close_eyes">Lanzelots, schließt beide eure Augen.</string>
 
 </resources>
