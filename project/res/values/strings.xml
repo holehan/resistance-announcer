@@ -23,19 +23,19 @@
 
     <!-- Resistance scripts -->
     <string name="script_close_eyes">Bitte schließt alle eure Augen.</string>
-    <string name="script_spies_find_each_other">Zylone, bitte öffnet eure Augen. Die Zylonen sehen sich um, und finden einander.</string>
-    <string name="script_spies_close_eyes">Zylone, bitte schließt eure Augen.</string>
+    <string name="script_spies_find_each_other">Zylonen, bitte öffnet eure Augen. Die Zylonen sehen sich um, und finden einander.</string>
+    <string name="script_spies_close_eyes">Zylonen, bitte schließt eure Augen.</string>
     <string name="script_open_eyes">Alle öffnen ihre Augen.</string>
 
     <!-- Avalon scripts -->
     <string name="script_close_eyes_extend_fists">Bitte schließt alle eure Augen, und streckt eure Faust vor euch aus.</string>
-    <string name="script_evil_find_each_other">Zylone, öffnet eure Augen, seht euch um und findet einander, so daß ihr alle anderen Zylonen kennt.</string>
+    <string name="script_evil_find_each_other">Zylonen, öffnet eure Augen, seht euch um und findet einander, so daß ihr alle anderen Zylonen kennt.</string>
     <string name="script_evil_find_each_other_except_oberon">Zylonen (alle außer der Schläferin), öffnet eure Augen, seht euch um, und findet einander, so daß ihr alle anderen Zylonen kennt.</string>
-    <string name="script_evil_close_eyes">Zylone, schließt eure Augen.</string>
-    <string name="script_evil_be_known">Zylone, streckt eure Daumen nach oben, damit der Admiral euch erkennen kann.</string>
+    <string name="script_evil_close_eyes">Zylonen, schließt eure Augen.</string>
+    <string name="script_evil_be_known">Zylonen, streckt eure Daumen nach oben, damit der Admiral euch erkennen kann.</string>
     <string name="script_evil_be_known_except_mordred">Zylonen (außer der Spionin), streckt eure Daumen nach oben, damit der Admiral euch erkennen kann.</string>
     <string name="script_merlin_know_evil">Admiral, öffne deine Augen, und erkenne die Zylonen an ihren hochgestreckten Daumen.</string>
-    <string name="script_evil_hide">Zylone, nehmt die Daumen herunter und bildet wieder eine Faust.</string>
+    <string name="script_evil_hide">Zylonen, nehmt die Daumen herunter und bildet wieder eine Faust.</string>
     <string name="script_merlin_close_eyes">Admiral, schließe deine Augen.</string>
     <string name="script_merlin_be_known">Admiral, strecke deinen Daumen nach oben, damit der Schutzengel dich erkennen kann.</string>
     <string name="script_merlin_morgana_be_known">Admiral und Saboteur, streckt eure Daumen nach oben, damit der Schutzengel euch erkennen kann.</string>
